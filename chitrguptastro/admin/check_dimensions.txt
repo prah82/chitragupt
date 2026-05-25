@@ -1,0 +1,30 @@
+IMAGE DIMENSION REPORT
+======================
+
+Directory: slider (C:\xxamp\htdocs\user\chitra\chitrguptastro\admin/uploads/slider/)
+--------------------------------------------------
+slider_1779262444_b01af890.png -> 1672x941 (Ratio: 1.78)
+slider_1779263681_31389100.jpeg -> 1600x500 (Ratio: 3.2)
+slider_1779263688_49aba65e.jpeg -> 1600x500 (Ratio: 3.2)
+slider_1779263695_9aacba5c.png -> 1672x941 (Ratio: 1.78)
+slider_1779263701_4194a164.png -> 1672x941 (Ratio: 1.78)
+... and more files
+
+Directory: accolades (C:\xxamp\htdocs\user\chitra\chitrguptastro\admin/uploads/accolades/)
+--------------------------------------------------
+accolade_1779257503_3dee1870.png -> 500x500 (Ratio: 1)
+accolade_1779258781_9c9e079e.png -> 500x500 (Ratio: 1)
+accolade_1779258814_dd348358.png -> 500x500 (Ratio: 1)
+accolade_1779258865_3a2df799.png -> 500x500 (Ratio: 1)
+accolade_1779258964_48223ecb.png -> 500x500 (Ratio: 1)
+... and more files
+
+Directory: service (C:\xxamp\htdocs\user\chitra\chitrguptastro\admin/uploads/service/)
+--------------------------------------------------
+accolade_1779257022_d702f902.png -> 500x500 (Ratio: 1)
+accolade_1779257057_152c558f.png -> 500x500 (Ratio: 1)
+course_1779185477_af25a6af.png -> 1536x1024 (Ratio: 1.5)
+course_1779185924_dbb1a263.png -> 500x500 (Ratio: 1)
+course_1779187179_dcb43f2e.png -> 500x500 (Ratio: 1)
+... and more files
+

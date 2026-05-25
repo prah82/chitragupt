@@ -1,0 +1,93 @@
+
+  .workflow-bg { background: #dce7fd; }
+  .workflow-card {
+    background: #ffffff;
+    border-radius: 16px;
+    border: 1px solid #e8edf5;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);
+  }
+  .workflow-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .workflow-head h3 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .workflow-muted {
+    margin: 0;
+    color: #64748b;
+    font-size: 14px;
+  }
+  .field-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  .field-full { grid-column: 1 / -1; }
+  .field-hint {
+    margin-top: 6px;
+    color: #64748b;
+    font-size: 12px;
+  }
+  .preview-inline {
+    width: 72px;
+    height: 72px;
+    border-radius: 10px;
+    object-fit: cover;
+    border: 1px solid #e2e8f0;
+    margin-top: 8px;
+  }
+  .btn-premium {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    background: linear-gradient(135deg, #0f766e, #0ea5a4);
+    box-shadow: 0 8px 18px rgba(15, 118, 110, 0.25);
+    text-decoration: none;
+  }
+  .btn-ghost {
+    border-radius: 10px;
+    border: 1px solid #d4dce8;
+    padding: 10px 16px;
+    color: #1e293b;
+    text-decoration: none;
+    background: #fff;
+    font-weight: 600;
+  }
+  .btn-danger {
+    background: linear-gradient(135deg, #dc2626, #ef4444);
+    box-shadow: 0 8px 18px rgba(220, 38, 38, 0.2);
+    padding: 12px 20px;
+  }
+  .workflow-table th { font-size: 23px; letter-spacing: 0.2px; }
+  .workflow-table td { vertical-align: middle; }
+  .workflow-thumb {
+    width: 260px;
+    height: 158px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid #dbe3ef;
+    background: #fff;
+  }
+  .action-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .inline-form { margin: 0; }
+  @media (max-width: 900px) {
+    .field-grid { grid-template-columns: 1fr; }
+  }
+
